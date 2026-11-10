@@ -1,6 +1,6 @@
 {
     "Version": 5,
-    "ReleaseNotes": null,
+    "ReleaseNotes": "Atualização de servidores e redes",
     "Sms": "https://raw.githubusercontent.com/tojaeldev/servidoresdatojaelxvpnestiloconecta4goutrasecretoninguempodesabersenaotudoacaboutodasasminhassnifoi2/refs/heads/main/sms.json",
     "UrlUpdate": "https://raw.githubusercontent.com/tojaeldanieldev11/servidoresdatojaelxvpnestiloconecta4goutrasecretoninguempodesabersenaotudoacaboutodasasminhassnifoi2/refs/heads/main/abc.json",
     "EmailFeedback": null,
@@ -45,16 +45,6 @@
             "TlsIP": "",
             "ProxyIP": "201.182.97.221",
             "ProxyPort": "80",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "Test",
-            "FLAG": "vivo",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
             "Info": "Tlsws"
         }
     ]
