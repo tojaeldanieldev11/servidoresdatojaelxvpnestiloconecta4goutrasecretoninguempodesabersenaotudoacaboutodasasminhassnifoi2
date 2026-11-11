@@ -1,5 +1,5 @@
 {
-    "Version": 5,
+    "Version": 3,
     "ReleaseNotes": "Atualização de servidores e redes",
     "Sms": "https://raw.githubusercontent.com/tojaeldev/servidoresdatojaelxvpnestiloconecta4goutrasecretoninguempodesabersenaotudoacaboutodasasminhassnifoi2/refs/heads/main/sms.json",
     "UrlUpdate": "https://raw.githubusercontent.com/tojaeldanieldev11/servidoresdatojaelxvpnestiloconecta4goutrasecretoninguempodesabersenaotudoacaboutodasasminhassnifoi2/refs/heads/main/abc.json",
@@ -14,10 +14,10 @@
     ],
     "Servers": [
         {
-            "Name": "Africell 🟣",
+            "Name": "SERVER INDIA",
             "TYPE": "free",
             "FLAG": "br.png",
-            "ServerIP": "201.182.97.221",
+            "ServerIP": "de.depwise.store",
             "CheckUser": "http://",
             "ServerPort": 80,
             "SSLPort": 443,
@@ -25,12 +25,12 @@
             "PASS": ""
         },
         {
-            "Name": "SERVER GENIO",
+            "Name": "SERVER Tojael X VPN",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "directo.elver.online",
+            "ServerIP": "tojaelxvpn.dns.army",
             "CheckUser": "http://",
-            "ServerPort": 443,
+            "ServerPort": 80,
             "SSLPort": 443,
             "USER": "",
             "PASS": ""
@@ -38,12 +38,12 @@
     ],
     "Networks": [
         {
-            "Name": "Paylod da Africell 🟣",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: h.facebook.com[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "h.facebook.com",
+            "Name": "Unitel Socializa 🍊",
+            "FLAG": "claro",
+            "Payload": "GET / HTTP/1.1[crlf]Host: g.whatsapp.net[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "201.182.97.221",
+            "ProxyIP": "",
             "ProxyPort": "80",
             "Info": "Tlsws"
         }
